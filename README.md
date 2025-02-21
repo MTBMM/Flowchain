@@ -1,1 +1,5 @@
-# Flowchain
+# FlowChain - Supply Chain Management System
+
+## Installation
+
+## Run Locally
